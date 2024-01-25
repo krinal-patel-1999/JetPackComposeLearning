@@ -1,0 +1,2673 @@
+{
+  "v": "5.9.0",
+  "fr": 23.9759979248047,
+  "ip": 0,
+  "op": 95.9999916909097,
+  "w": 1080,
+  "h": 1080,
+  "nm": "Shahen Logo Animation 4",
+  "ddd": 0,
+  "assets": [
+    {
+      "id": "image_0",
+      "w": 721,
+      "h": 733,
+      "u": "images/",
+      "p": "img_0.png",
+      "e": 0
+    },
+    {
+      "id": "image_1",
+      "w": 178,
+      "h": 152,
+      "u": "images/",
+      "p": "img_1.png",
+      "e": 0
+    },
+    {
+      "id": "image_2",
+      "w": 116,
+      "h": 273,
+      "u": "images/",
+      "p": "img_2.png",
+      "e": 0
+    },
+    {
+      "id": "image_3",
+      "w": 1189,
+      "h": 731,
+      "u": "images/",
+      "p": "img_3.png",
+      "e": 0
+    },
+    {
+      "id": "image_4",
+      "w": 1068,
+      "h": 960,
+      "u": "images/",
+      "p": "img_4.png",
+      "e": 0
+    },
+    {
+      "id": "image_5",
+      "w": 1625,
+      "h": 960,
+      "u": "images/",
+      "p": "img_5.png",
+      "e": 0
+    },
+    {
+      "id": "image_6",
+      "w": 1053,
+      "h": 960,
+      "u": "images/",
+      "p": "img_6.png",
+      "e": 0
+    },
+    {
+      "id": "image_7",
+      "w": 484,
+      "h": 268,
+      "u": "images/",
+      "p": "img_7.png",
+      "e": 0
+    },
+    {
+      "id": "image_8",
+      "w": 752,
+      "h": 104,
+      "u": "images/",
+      "p": "img_8.png",
+      "e": 0
+    },
+    {
+      "id": "image_9",
+      "w": 337,
+      "h": 106,
+      "u": "images/",
+      "p": "img_9.png",
+      "e": 0
+    },
+    {
+      "id": "image_10",
+      "w": 2872,
+      "h": 525,
+      "u": "images/",
+      "p": "img_10.png",
+      "e": 0
+    },
+    {
+      "id": "comp_0",
+      "nm": "All Files",
+      "fr": 23.9759979248047,
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 4,
+          "nm": "Shape Layer 1",
+          "td": 1,
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                540,
+                540,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                0,
+                0,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "shapes": [
+            {
+              "ty": "gr",
+              "it": [
+                {
+                  "ty": "rc",
+                  "d": 1,
+                  "s": {
+                    "a": 0,
+                    "k": [
+                      646.388,
+                      390.09
+                    ],
+                    "ix": 2
+                  },
+                  "p": {
+                    "a": 0,
+                    "k": [
+                      0,
+                      0
+                    ],
+                    "ix": 3
+                  },
+                  "r": {
+                    "a": 0,
+                    "k": 0,
+                    "ix": 4
+                  },
+                  "nm": "Rectangle Path 1",
+                  "mn": "ADBE Vector Shape - Rect",
+                  "hd": false
+                },
+                {
+                  "ty": "fl",
+                  "c": {
+                    "a": 0,
+                    "k": [
+                      1,
+                      1,
+                      1,
+                      1
+                    ],
+                    "ix": 4
+                  },
+                  "o": {
+                    "a": 0,
+                    "k": 100,
+                    "ix": 5
+                  },
+                  "r": 1,
+                  "bm": 0,
+                  "nm": "Fill 1",
+                  "mn": "ADBE Vector Graphic - Fill",
+                  "hd": false
+                },
+                {
+                  "ty": "tr",
+                  "p": {
+                    "a": 0,
+                    "k": [
+                      15.313,
+                      -114.448
+                    ],
+                    "ix": 2
+                  },
+                  "a": {
+                    "a": 0,
+                    "k": [
+                      0,
+                      0
+                    ],
+                    "ix": 1
+                  },
+                  "s": {
+                    "a": 0,
+                    "k": [
+                      100,
+                      100
+                    ],
+                    "ix": 3
+                  },
+                  "r": {
+                    "a": 0,
+                    "k": 0,
+                    "ix": 6
+                  },
+                  "o": {
+                    "a": 0,
+                    "k": 100,
+                    "ix": 7
+                  },
+                  "sk": {
+                    "a": 0,
+                    "k": 0,
+                    "ix": 4
+                  },
+                  "sa": {
+                    "a": 0,
+                    "k": 0,
+                    "ix": 5
+                  },
+                  "nm": "Transform"
+                }
+              ],
+              "nm": "Rectangle 1",
+              "np": 3,
+              "cix": 2,
+              "bm": 0,
+              "ix": 1,
+              "mn": "ADBE Vector Group",
+              "hd": false
+            }
+          ],
+          "ip": 32.9999971437502,
+          "op": 727.999936989398,
+          "st": 7.9999993075758,
+          "bm": 0
+        },
+        {
+          "ddd": 0,
+          "ind": 2,
+          "ty": 0,
+          "nm": "Truck 2",
+          "tt": 1,
+          "refId": "comp_1",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10,
+              "x": "var $bm_rt;\nvar result;\nresult = getAnimationComposerPresetValue();\nfunction getAnimationComposerPresetValue() {\n    var bL = thisLayer;\n    var tTrI = null;\n    var tTrO = null;\n    if (bL.marker.numKeys > 0) {\n        var acmp = 'zzzzzzzzzzzzzzz_AC';\n        for (var i = 1; i <= bL.marker.numKeys; i++) {\n            var m = bL.marker.key(i);\n            var p = m.parameters;\n            if (p.hasOwnProperty(acmp + 'MarkerEnabled') && p.hasOwnProperty(acmp + 'MarkerType') && p.hasOwnProperty(acmp + 'MarkerAppPresetType')) {\n                if (p[acmp + 'MarkerEnabled'] != '1') {\n                    continue;\n                }\n                switch (p[acmp + 'MarkerAppPresetType']) {\n                case '1': {\n                        tTrI = m.time;\n                        break;\n                    }\n                }\n            }\n        }\n    }\n    ;\n    function acAngleValP(fxN, stN, dV) {\n        try {\n            return bL.effect(fxN)(stN);\n        } catch (e) {\n            return dV;\n        }\n    }\n    function acPD(fxN) {\n        try {\n            if (bL.effect(fxN).active === false) {\n                ac.en = false;\n            }\n        } catch (e) {\n        }\n    }\n    function acSliderValP(fxN, stN, dV) {\n        try {\n            return bL.effect(fxN)(stN);\n        } catch (e) {\n            return dV;\n        }\n    }\n    function acValAdd(val) {\n        acAccA = $bm_sum(acAccA, val);\n    }\n    function mhOvershoot(t, a, f, d) {\n        if (d <= 0) {\n            d = 0;\n        }\n        var y = $bm_div($bm_mul(a, Math.cos($bm_mul($bm_mul($bm_mul(t, f), Math.PI), 2))), Math.exp($bm_mul(t, d)));\n        if (t < 0.8) {\n            return y;\n        }\n        return $bm_mul(y, $bm_sub(1, $bm_div($bm_sub(t, 0.8), 0.2)));\n    }\n    function upACo(tIn, dIn, tOut, dOut, eFi, eFo) {\n        if (dIn < 0) {\n            dIn = 0;\n        }\n        if (dOut < 0) {\n            dOut = 0;\n        }\n        ac.fade = 1;\n        if (t < tOut) {\n            if (t < $bm_sum(tIn, dIn)) {\n                if (dIn == 0) {\n                    ac.fade = 0;\n                } else {\n                    ac.fade = $bm_div($bm_sub(t, tIn), dIn);\n                    if (ac.fade < 0) {\n                        ac.fade = 0;\n                    }\n                    if (ac.fade > 1) {\n                        ac.fade = 1;\n                    }\n                    if (eFi) {\n                        ac.fade = eFi(ac.fade);\n                    }\n                }\n            }\n        } else {\n            if (dOut == 0) {\n                ac.fade = 0;\n            } else {\n                ac.fade = $bm_div($bm_sub(t, tOut), dOut);\n                if (ac.fade < 0) {\n                    ac.fade = 0;\n                }\n                if (ac.fade > 1) {\n                    ac.fade = 1;\n                }\n                if (eFo) {\n                    ac.fade = eFo(ac.fade);\n                }\n                ac.fade = $bm_sub(1, ac.fade);\n            }\n        }\n        ac.intensity = 1;\n        ac.en = true;\n        ac.t = $bm_sub(t, tIn);\n    }\n    var ac = {};\n    ac.en = false;\n    var v = thisProperty.value;\n    var t = time;\n    var acAccA = 0;\n    ac.en = false;\n    if (tTrI !== null && t < tTrI) {\n        upACo(bL.inPoint, $bm_sub(tTrI, bL.inPoint), bL.outPoint, 0);\n        ac.fade = $bm_sub(1, ac.fade);\n    }\n    acPD('AC IN [UDG] Controls');\n    if (ac.en) {\n        acValAdd($bm_mul(acAngleValP('AC IN [UDG] Controls', 'Angle', 100), mhOvershoot($bm_sub(1, ac.fade), 1, acSliderValP('AC IN [UDG] Controls', 'Bounces', 1), 7)));\n    }\n    v = thisProperty.value;\n    v = $bm_sum(v, acAccA);\n    return v;\n}\n$bm_rt = result;"
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                540,
+                540,
+                0
+              ],
+              "ix": 2,
+              "l": 2,
+              "x": "var $bm_rt;\nvar result;\nresult = getAnimationComposerPresetValue();\nfunction getAnimationComposerPresetValue() {\n    var bL = thisLayer;\n    var tTrI = null;\n    var tTrO = null;\n    if (bL.marker.numKeys > 0) {\n        var acmp = 'zzzzzzzzzzzzzzz_AC';\n        for (var i = 1; i <= bL.marker.numKeys; i++) {\n            var m = bL.marker.key(i);\n            var p = m.parameters;\n            if (p.hasOwnProperty(acmp + 'MarkerEnabled') && p.hasOwnProperty(acmp + 'MarkerType') && p.hasOwnProperty(acmp + 'MarkerAppPresetType')) {\n                if (p[acmp + 'MarkerEnabled'] != '1') {\n                    continue;\n                }\n                switch (p[acmp + 'MarkerAppPresetType']) {\n                case '1': {\n                        tTrI = m.time;\n                        break;\n                    }\n                }\n            }\n        }\n    }\n    ;\n    function acPD(fxN) {\n        try {\n            if (bL.effect(fxN).active === false) {\n                ac.en = false;\n            }\n        } catch (e) {\n        }\n    }\n    function acPointValP(fxN, stN, dV) {\n        try {\n            return bL.effect(fxN)(stN);\n        } catch (e) {\n            return dV;\n        }\n    }\n    function acSliderValP(fxN, stN, dV) {\n        try {\n            return bL.effect(fxN)(stN);\n        } catch (e) {\n            return dV;\n        }\n    }\n    function acValAdd(val) {\n        acAccA = $bm_sum(acAccA, val);\n    }\n    function mhOvershoot(t, a, f, d) {\n        if (d <= 0) {\n            d = 0;\n        }\n        var y = $bm_div($bm_mul(a, Math.cos($bm_mul($bm_mul($bm_mul(t, f), Math.PI), 2))), Math.exp($bm_mul(t, d)));\n        if (t < 0.8) {\n            return y;\n        }\n        return $bm_mul(y, $bm_sub(1, $bm_div($bm_sub(t, 0.8), 0.2)));\n    }\n    function upACo(tIn, dIn, tOut, dOut, eFi, eFo) {\n        if (dIn < 0) {\n            dIn = 0;\n        }\n        if (dOut < 0) {\n            dOut = 0;\n        }\n        ac.fade = 1;\n        if (t < tOut) {\n            if (t < $bm_sum(tIn, dIn)) {\n                if (dIn == 0) {\n                    ac.fade = 0;\n                } else {\n                    ac.fade = $bm_div($bm_sub(t, tIn), dIn);\n                    if (ac.fade < 0) {\n                        ac.fade = 0;\n                    }\n                    if (ac.fade > 1) {\n                        ac.fade = 1;\n                    }\n                    if (eFi) {\n                        ac.fade = eFi(ac.fade);\n                    }\n                }\n            }\n        } else {\n            if (dOut == 0) {\n                ac.fade = 0;\n            } else {\n                ac.fade = $bm_div($bm_sub(t, tOut), dOut);\n                if (ac.fade < 0) {\n                    ac.fade = 0;\n                }\n                if (ac.fade > 1) {\n                    ac.fade = 1;\n                }\n                if (eFo) {\n                    ac.fade = eFo(ac.fade);\n                }\n                ac.fade = $bm_sub(1, ac.fade);\n            }\n        }\n        ac.intensity = 1;\n        ac.en = true;\n        ac.t = $bm_sub(t, tIn);\n    }\n    var ac = {};\n    ac.en = false;\n    var v = thisProperty.value;\n    var t = time;\n    var acAccA = 0;\n    ac.en = false;\n    if (tTrI !== null && t < tTrI) {\n        upACo(bL.inPoint, $bm_sub(tTrI, bL.inPoint), bL.outPoint, 0);\n        ac.fade = $bm_sub(1, ac.fade);\n    }\n    acPD('AC IN [UDG] Controls');\n    if (ac.en) {\n        acValAdd($bm_mul(acPointValP('AC IN [UDG] Controls', 'Position', [\n            0,\n            1000\n        ]), mhOvershoot($bm_sub(1, ac.fade), 1, acSliderValP('AC IN [UDG] Controls', 'Bounces', 1), 7)));\n    }\n    v = thisProperty.value;\n    v = $bm_sum(v, acAccA);\n    return v;\n}\n$bm_rt = result;"
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                32,
+                32,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "hasMask": true,
+          "masksProperties": [
+            {
+              "inv": false,
+              "mode": "a",
+              "pt": {
+                "a": 0,
+                "k": {
+                  "i": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ]
+                  ],
+                  "o": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ]
+                  ],
+                  "v": [
+                    [
+                      484.077,
+                      -132.466
+                    ],
+                    [
+                      521.938,
+                      1046.62
+                    ],
+                    [
+                      2425.783,
+                      1003.351
+                    ],
+                    [
+                      2225.663,
+                      -45.928
+                    ]
+                  ],
+                  "c": true
+                },
+                "ix": 1
+              },
+              "o": {
+                "a": 0,
+                "k": 100,
+                "ix": 3
+              },
+              "x": {
+                "a": 0,
+                "k": 0,
+                "ix": 4
+              },
+              "nm": "Mask 1"
+            }
+          ],
+          "ef": [
+            {
+              "ty": 5,
+              "nm": "AC IN [UDG] Controls",
+              "np": 5,
+              "mn": "Pseudo/MHAC PrCtrl UDG 4",
+              "ix": 1,
+              "en": 1,
+              "ef": [
+                {
+                  "ty": 3,
+                  "nm": "Position",
+                  "mn": "Pseudo/MHAC PrCtrl UDG 4-0001",
+                  "ix": 1,
+                  "v": {
+                    "a": 0,
+                    "k": [
+                      0,
+                      1000
+                    ],
+                    "ix": 1
+                  }
+                },
+                {
+                  "ty": 0,
+                  "nm": "Angle",
+                  "mn": "Pseudo/MHAC PrCtrl UDG 4-0002",
+                  "ix": 2,
+                  "v": {
+                    "a": 0,
+                    "k": 0,
+                    "ix": 2
+                  }
+                },
+                {
+                  "ty": 0,
+                  "nm": "Bounces",
+                  "mn": "Pseudo/MHAC PrCtrl UDG 4-0003",
+                  "ix": 3,
+                  "v": {
+                    "a": 0,
+                    "k": 1,
+                    "ix": 3
+                  }
+                }
+              ]
+            },
+            {
+              "ty": 5,
+              "nm": "Wave Warp",
+              "np": 10,
+              "mn": "ADBE Wave Warp",
+              "ix": 2,
+              "en": 1,
+              "ef": [
+                {
+                  "ty": 7,
+                  "nm": "Wave Type",
+                  "mn": "ADBE Wave Warp-0001",
+                  "ix": 1,
+                  "v": {
+                    "a": 0,
+                    "k": 1,
+                    "ix": 1
+                  }
+                },
+                {
+                  "ty": 0,
+                  "nm": "Wave Height",
+                  "mn": "ADBE Wave Warp-0002",
+                  "ix": 2,
+                  "v": {
+                    "a": 1,
+                    "k": [
+                      {
+                        "i": {
+                          "x": [
+                            0.833
+                          ],
+                          "y": [
+                            1
+                          ]
+                        },
+                        "o": {
+                          "x": [
+                            0.167
+                          ],
+                          "y": [
+                            0
+                          ]
+                        },
+                        "t": 40,
+                        "s": [
+                          37
+                        ]
+                      },
+                      {
+                        "i": {
+                          "x": [
+                            0.833
+                          ],
+                          "y": [
+                            1
+                          ]
+                        },
+                        "o": {
+                          "x": [
+                            0.167
+                          ],
+                          "y": [
+                            0
+                          ]
+                        },
+                        "t": 48,
+                        "s": [
+                          20
+                        ]
+                      },
+                      {
+                        "t": 65.9999942875004,
+                        "s": [
+                          0
+                        ]
+                      }
+                    ],
+                    "ix": 2
+                  }
+                },
+                {
+                  "ty": 0,
+                  "nm": "Wave Width",
+                  "mn": "ADBE Wave Warp-0003",
+                  "ix": 3,
+                  "v": {
+                    "a": 0,
+                    "k": 329.8,
+                    "ix": 3
+                  }
+                },
+                {
+                  "ty": 0,
+                  "nm": "Direction",
+                  "mn": "ADBE Wave Warp-0004",
+                  "ix": 4,
+                  "v": {
+                    "a": 0,
+                    "k": 90,
+                    "ix": 4
+                  }
+                },
+                {
+                  "ty": 7,
+                  "nm": "Wave Speed",
+                  "mn": "ADBE Wave Warp-0005",
+                  "ix": 5,
+                  "v": {
+                    "a": 0,
+                    "k": 0.5,
+                    "ix": 5
+                  }
+                },
+                {
+                  "ty": 7,
+                  "nm": "Pinning",
+                  "mn": "ADBE Wave Warp-0006",
+                  "ix": 6,
+                  "v": {
+                    "a": 0,
+                    "k": 1,
+                    "ix": 6
+                  }
+                },
+                {
+                  "ty": 0,
+                  "nm": "Phase",
+                  "mn": "ADBE Wave Warp-0007",
+                  "ix": 7,
+                  "v": {
+                    "a": 0,
+                    "k": 0,
+                    "ix": 7
+                  }
+                },
+                {
+                  "ty": 7,
+                  "nm": "Antialiasing (Best Quality)",
+                  "mn": "ADBE Wave Warp-0008",
+                  "ix": 8,
+                  "v": {
+                    "a": 0,
+                    "k": 1,
+                    "ix": 8
+                  }
+                }
+              ]
+            }
+          ],
+          "w": 2872,
+          "h": 1693,
+          "ip": 33.9999970571972,
+          "op": 6033.99947773905,
+          "st": 33.9999970571972,
+          "bm": 0
+        },
+        {
+          "ddd": 0,
+          "ind": 3,
+          "ty": 0,
+          "nm": "Name + Truck",
+          "refId": "comp_12",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 1,
+              "k": [
+                {
+                  "i": {
+                    "x": 0.833,
+                    "y": 0.833
+                  },
+                  "o": {
+                    "x": 0.167,
+                    "y": 0.167
+                  },
+                  "t": 33,
+                  "s": [
+                    540,
+                    540,
+                    0
+                  ],
+                  "to": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "ti": [
+                    0,
+                    0,
+                    0
+                  ]
+                },
+                {
+                  "i": {
+                    "x": 0.833,
+                    "y": 0.833
+                  },
+                  "o": {
+                    "x": 0.167,
+                    "y": 0.167
+                  },
+                  "t": 35,
+                  "s": [
+                    540,
+                    495.5,
+                    0
+                  ],
+                  "to": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "ti": [
+                    0,
+                    0,
+                    0
+                  ]
+                },
+                {
+                  "t": 36.9999967975381,
+                  "s": [
+                    540,
+                    540,
+                    0
+                  ]
+                }
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                540,
+                540,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 1080,
+          "h": 1080,
+          "ip": 6.99999939412883,
+          "op": 36.9999967975381,
+          "st": 6.99999939412883,
+          "bm": 0
+        },
+        {
+          "ddd": 0,
+          "ind": 4,
+          "ty": 0,
+          "nm": "Name 2",
+          "refId": "comp_8",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 1,
+              "k": [
+                {
+                  "i": {
+                    "x": 0.833,
+                    "y": 0.833
+                  },
+                  "o": {
+                    "x": 0.167,
+                    "y": 0.167
+                  },
+                  "t": 33,
+                  "s": [
+                    538,
+                    528.5,
+                    0
+                  ],
+                  "to": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "ti": [
+                    0,
+                    0,
+                    0
+                  ]
+                },
+                {
+                  "i": {
+                    "x": 0.833,
+                    "y": 0.833
+                  },
+                  "o": {
+                    "x": 0.167,
+                    "y": 0.167
+                  },
+                  "t": 35,
+                  "s": [
+                    538,
+                    495.5,
+                    0
+                  ],
+                  "to": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "ti": [
+                    0,
+                    0,
+                    0
+                  ]
+                },
+                {
+                  "t": 36.9999967975381,
+                  "s": [
+                    538,
+                    528.5,
+                    0
+                  ]
+                }
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                30,
+                30,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 2872,
+          "h": 1693,
+          "ip": 6.99999939412883,
+          "op": 6006.99948007598,
+          "st": 6.99999939412883,
+          "bm": 0
+        },
+        {
+          "ddd": 0,
+          "ind": 5,
+          "ty": 0,
+          "nm": "Name 3",
+          "refId": "comp_8",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11,
+              "x": "var $bm_rt;\nvar result;\nresult = getAnimationComposerPresetValue();\nfunction getAnimationComposerPresetValue() {\n    var bL = thisLayer;\n    var tTrI = null;\n    var tTrO = null;\n    if (bL.marker.numKeys > 0) {\n        var acmp = 'zzzzzzzzzzzzzzz_AC';\n        for (var i = 1; i <= bL.marker.numKeys; i++) {\n            var m = bL.marker.key(i);\n            var p = m.parameters;\n            if (p.hasOwnProperty(acmp + 'MarkerEnabled') && p.hasOwnProperty(acmp + 'MarkerType') && p.hasOwnProperty(acmp + 'MarkerAppPresetType')) {\n                if (p[acmp + 'MarkerEnabled'] != '1') {\n                    continue;\n                }\n                switch (p[acmp + 'MarkerAppPresetType']) {\n                case '1': {\n                        tTrI = m.time;\n                        break;\n                    }\n                }\n            }\n        }\n    }\n    ;\n    function acValMul(val) {\n        acAccM *= val;\n    }\n    function easeInCubic(t) {\n        return $bm_mul($bm_mul(t, t), t);\n    }\n    function upACo(tIn, dIn, tOut, dOut, eFi, eFo) {\n        if (dIn < 0) {\n            dIn = 0;\n        }\n        if (dOut < 0) {\n            dOut = 0;\n        }\n        ac.fade = 1;\n        if (t < tOut) {\n            if (t < $bm_sum(tIn, dIn)) {\n                if (dIn == 0) {\n                    ac.fade = 0;\n                } else {\n                    ac.fade = $bm_div($bm_sub(t, tIn), dIn);\n                    if (ac.fade < 0) {\n                        ac.fade = 0;\n                    }\n                    if (ac.fade > 1) {\n                        ac.fade = 1;\n                    }\n                    if (eFi) {\n                        ac.fade = eFi(ac.fade);\n                    }\n                }\n            }\n        } else {\n            if (dOut == 0) {\n                ac.fade = 0;\n            } else {\n                ac.fade = $bm_div($bm_sub(t, tOut), dOut);\n                if (ac.fade < 0) {\n                    ac.fade = 0;\n                }\n                if (ac.fade > 1) {\n                    ac.fade = 1;\n                }\n                if (eFo) {\n                    ac.fade = eFo(ac.fade);\n                }\n                ac.fade = $bm_sub(1, ac.fade);\n            }\n        }\n        ac.intensity = 1;\n        ac.en = true;\n        ac.t = $bm_sub(t, tIn);\n    }\n    var ac = {};\n    ac.en = false;\n    var v = thisProperty.value;\n    var t = time;\n    var acAccM = 1;\n    ac.en = false;\n    if (tTrI !== null && t < tTrI) {\n        upACo(bL.inPoint, $bm_sub(tTrI, bL.inPoint), bL.outPoint, 0);\n        ac.fade = $bm_sub(1, ac.fade);\n    }\n    if (ac.en) {\n        acValMul($bm_sub(1, easeInCubic(ac.fade)));\n    }\n    v = thisProperty.value;\n    v *= acAccM;\n    return v;\n}\n$bm_rt = result;"
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                538,
+                528.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                30,
+                30,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 2872,
+          "h": 1693,
+          "ip": 1.99999982689395,
+          "op": 19.9999982689395,
+          "st": 1.99999982689395,
+          "bm": 0
+        },
+        {
+          "ddd": 0,
+          "ind": 6,
+          "ty": 1,
+          "nm": "White BG",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                540,
+                540,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                540,
+                540,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "sw": 1080,
+          "sh": 1080,
+          "sc": "#ffffff",
+          "ip": 0,
+          "op": 719.999937681822,
+          "st": 0,
+          "bm": 0
+        }
+      ]
+    },
+    {
+      "id": "comp_1",
+      "nm": "Shahen",
+      "fr": 23.9759979248047,
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 0,
+          "nm": "Truck",
+          "refId": "comp_2",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 2872,
+          "h": 1693,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        },
+        {
+          "ddd": 0,
+          "ind": 2,
+          "ty": 0,
+          "nm": "Cargo ",
+          "refId": "comp_6",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 2872,
+          "h": 1693,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        },
+        {
+          "ddd": 0,
+          "ind": 3,
+          "ty": 0,
+          "nm": "Name",
+          "refId": "comp_8",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 2872,
+          "h": 1693,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        }
+      ]
+    },
+    {
+      "id": "comp_2",
+      "nm": "Layer 3",
+      "fr": 23.9759979248047,
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 0,
+          "nm": "<Group>",
+          "tg": "Group",
+          "refId": "comp_3",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 2872,
+          "h": 1693,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        }
+      ]
+    },
+    {
+      "id": "comp_3",
+      "nm": "<Group>",
+      "fr": 23.9759979248047,
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 2,
+          "nm": "<Group>",
+          "tg": "Group",
+          "refId": "image_0",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1421.5,
+                591.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                360.5,
+                366.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        },
+        {
+          "ddd": 0,
+          "ind": 2,
+          "ty": 0,
+          "nm": "<Group>",
+          "tg": "Group",
+          "refId": "comp_4",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 2872,
+          "h": 1693,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        }
+      ]
+    },
+    {
+      "id": "comp_4",
+      "nm": "<Group>",
+      "fr": 23.9759979248047,
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 0,
+          "nm": "<Group>",
+          "tg": "Group",
+          "refId": "comp_5",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 2872,
+          "h": 1693,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        },
+        {
+          "ddd": 0,
+          "ind": 2,
+          "ty": 2,
+          "nm": "<Group>",
+          "tg": "Group",
+          "refId": "image_3",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1656.5,
+                592.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                594.5,
+                365.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        }
+      ]
+    },
+    {
+      "id": "comp_5",
+      "nm": "<Group>",
+      "fr": 23.9759979248047,
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 2,
+          "nm": "<Path>",
+          "tg": "Path",
+          "refId": "image_1",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 74.118,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1535,
+                332,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                89,
+                76,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 6
+        },
+        {
+          "ddd": 0,
+          "ind": 2,
+          "ty": 2,
+          "nm": "<Path>",
+          "tg": "Path",
+          "refId": "image_2",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 74.118,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                2148,
+                781.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                58,
+                136.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 6
+        }
+      ]
+    },
+    {
+      "id": "comp_6",
+      "nm": "Cargo",
+      "fr": 23.9759979248047,
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 0,
+          "nm": "<Clip Group>",
+          "refId": "comp_7",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "hasMask": true,
+          "masksProperties": [
+            {
+              "inv": false,
+              "mode": "a",
+              "pt": {
+                "a": 0,
+                "k": {
+                  "i": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ]
+                  ],
+                  "o": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ]
+                  ],
+                  "v": [
+                    [
+                      939.619,
+                      255.678
+                    ],
+                    [
+                      1161.682,
+                      462.941
+                    ],
+                    [
+                      1693.241,
+                      959.075
+                    ],
+                    [
+                      976.871,
+                      959.075
+                    ],
+                    [
+                      775.833,
+                      721.041
+                    ],
+                    [
+                      682.991,
+                      408.564
+                    ],
+                    [
+                      626.315,
+                      0.84
+                    ]
+                  ],
+                  "c": true
+                },
+                "ix": 1
+              },
+              "o": {
+                "a": 0,
+                "k": 100,
+                "ix": 3
+              },
+              "x": {
+                "a": 0,
+                "k": 0,
+                "ix": 4
+              },
+              "nm": "Mask 1"
+            }
+          ],
+          "w": 2872,
+          "h": 1693,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        },
+        {
+          "ddd": 0,
+          "ind": 2,
+          "ty": 2,
+          "nm": "<Path>",
+          "tg": "Path",
+          "refId": "image_6",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1152.5,
+                480,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                526.5,
+                480,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        },
+        {
+          "ddd": 0,
+          "ind": 3,
+          "ty": 2,
+          "nm": "<Path>",
+          "tg": "Path",
+          "refId": "image_7",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 63.137,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                927,
+                542,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                242,
+                134,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 6
+        },
+        {
+          "ddd": 0,
+          "ind": 4,
+          "ty": 2,
+          "nm": "<Path>",
+          "tg": "Path",
+          "refId": "image_8",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1270,
+                906,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                376,
+                52,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 1
+        },
+        {
+          "ddd": 0,
+          "ind": 5,
+          "ty": 2,
+          "nm": "<Path>",
+          "tg": "Path",
+          "refId": "image_9",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 63.137,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                948.5,
+                756,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                168.5,
+                53,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 6
+        }
+      ]
+    },
+    {
+      "id": "comp_7",
+      "nm": "<Clip Group>",
+      "fr": 23.9759979248047,
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 2,
+          "nm": "<Path>",
+          "tg": "Path",
+          "refId": "image_4",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 63.137,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1160,
+                480,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                534,
+                480,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 6
+        },
+        {
+          "ddd": 0,
+          "ind": 2,
+          "ty": 2,
+          "nm": "<Group>",
+          "tg": "Group",
+          "refId": "image_5",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1438.5,
+                480,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                812.5,
+                480,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        }
+      ]
+    },
+    {
+      "id": "comp_8",
+      "nm": "Layer 1",
+      "fr": 23.9759979248047,
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 0,
+          "nm": "<Group>",
+          "tg": "Group",
+          "refId": "comp_9",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 2872,
+          "h": 1693,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        }
+      ]
+    },
+    {
+      "id": "comp_9",
+      "nm": "<Group>",
+      "fr": 23.9759979248047,
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 0,
+          "nm": "<Group>",
+          "tg": "Group",
+          "refId": "comp_10",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 2872,
+          "h": 1693,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        }
+      ]
+    },
+    {
+      "id": "comp_10",
+      "nm": "<Group>",
+      "fr": 23.9759979248047,
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 0,
+          "nm": "<Group>",
+          "tg": "Group",
+          "refId": "comp_11",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 2872,
+          "h": 1693,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        }
+      ]
+    },
+    {
+      "id": "comp_11",
+      "nm": "<Group>",
+      "fr": 23.9759979248047,
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 2,
+          "nm": "<Group>",
+          "tg": "Group",
+          "refId": "image_10",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                1436,
+                1430.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                262.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                100,
+                100,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        }
+      ]
+    },
+    {
+      "id": "comp_12",
+      "nm": "Name + Truck",
+      "fr": 23.9759979248047,
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 0,
+          "nm": "Name",
+          "td": 1,
+          "refId": "comp_8",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                538,
+                528.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                30,
+                30,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 2872,
+          "h": 1693,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        },
+        {
+          "ddd": 0,
+          "ind": 2,
+          "ty": 0,
+          "nm": "Truck",
+          "tt": 1,
+          "refId": "comp_13",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 1,
+              "k": [
+                {
+                  "i": {
+                    "x": 0.833,
+                    "y": 0.833
+                  },
+                  "o": {
+                    "x": 0.167,
+                    "y": 0.167
+                  },
+                  "t": 0,
+                  "s": [
+                    -381,
+                    768,
+                    0
+                  ],
+                  "to": [
+                    160.667,
+                    0,
+                    0
+                  ],
+                  "ti": [
+                    -160.667,
+                    0,
+                    0
+                  ]
+                },
+                {
+                  "t": 24.9999978361744,
+                  "s": [
+                    583,
+                    768,
+                    0
+                  ]
+                }
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                540,
+                540,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                70,
+                70,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 1080,
+          "h": 1080,
+          "ip": 0,
+          "op": 719.999937681822,
+          "st": 0,
+          "bm": 0
+        }
+      ]
+    },
+    {
+      "id": "comp_13",
+      "nm": "Truck",
+      "fr": 23.9759979248047,
+      "layers": [
+        {
+          "ddd": 0,
+          "ind": 1,
+          "ty": 0,
+          "nm": "Truck",
+          "refId": "comp_2",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                538,
+                528.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                30,
+                30,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 2872,
+          "h": 1693,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        },
+        {
+          "ddd": 0,
+          "ind": 2,
+          "ty": 0,
+          "nm": "Cargo ",
+          "refId": "comp_6",
+          "sr": 1,
+          "ks": {
+            "o": {
+              "a": 0,
+              "k": 100,
+              "ix": 11
+            },
+            "r": {
+              "a": 0,
+              "k": 0,
+              "ix": 10
+            },
+            "p": {
+              "a": 0,
+              "k": [
+                538,
+                528.5,
+                0
+              ],
+              "ix": 2,
+              "l": 2
+            },
+            "a": {
+              "a": 0,
+              "k": [
+                1436,
+                846.5,
+                0
+              ],
+              "ix": 1,
+              "l": 2
+            },
+            "s": {
+              "a": 0,
+              "k": [
+                30,
+                30,
+                100
+              ],
+              "ix": 6,
+              "l": 2
+            }
+          },
+          "ao": 0,
+          "w": 2872,
+          "h": 1693,
+          "ip": 0,
+          "op": 5999.99948068185,
+          "st": 0,
+          "bm": 0
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "ddd": 0,
+      "ind": 1,
+      "ty": 0,
+      "nm": "All Files",
+      "refId": "comp_0",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 0,
+          "k": 0,
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [
+            540,
+            540,
+            0
+          ],
+          "ix": 2,
+          "l": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [
+            540,
+            540,
+            0
+          ],
+          "ix": 1,
+          "l": 2
+        },
+        "s": {
+          "a": 0,
+          "k": [
+            100,
+            100,
+            100
+          ],
+          "ix": 6,
+          "l": 2
+        }
+      },
+      "ao": 0,
+      "w": 1080,
+      "h": 1080,
+      "ip": 0,
+      "op": 719.999937681822,
+      "st": 0,
+      "bm": 0
+    }
+  ],
+  "markers": []
+}

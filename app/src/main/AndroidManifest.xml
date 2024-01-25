@@ -5,7 +5,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name="com.tweetesAppWithMVVMAndFlow.Tweetsy"
+        android:name="com.shahenDemoCompose.Shahen"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -15,28 +15,30 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JetPackComposeLearning"
         tools:targetApi="31">
-        <activity
-            android:name="com.tweetesAppWithMVVMAndFlow.TweetsyAppActivity"
+
+        <activity android:name="com.shahenDemoCompose.ShahenActivity"
             android:exported="true"
-            android:label="@string/title_activity_tweetsy_app"
+            android:label="@string/title_activity_shahen"
             android:theme="@style/Theme.JetPackComposeLearning">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
-        <activity
-            android:name="com.quotesAppListing.quotesApp.QuotesActivity"
+
+        <!--<activity
+            android:name="com.tweetesAppWithMVVMAndFlow.TweetsyAppActivity"
             android:exported="false"
-            android:label="@string/title_activity_quotes"
+            android:label="@string/title_activity_tweetsy_app"
             android:theme="@style/Theme.JetPackComposeLearning">
-            <!--<intent-filter>
+            &lt;!&ndash;<intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>-->
-        </activity>
+            </intent-filter>&ndash;&gt;
+        </activity>-->
         <activity
             android:name=".ExRowCol"
             android:exported="false"

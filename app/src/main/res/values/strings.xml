@@ -3,4 +3,5 @@
     <string name="title_activity_ex_row_col">ExRowCol</string>
     <string name="title_activity_quotes">QuotesActivity</string>
     <string name="title_activity_tweetsy_app">TweetsyAppActivity</string>
+    <string name="title_activity_shahen">ShahenActivity</string>
 </resources>
